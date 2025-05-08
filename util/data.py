@@ -278,5 +278,3 @@ def run_report(cf_matrix, isCNN=False):
     plt.ylabel('True Labels')
     plt.title('Confusion Matrix')
     plt.show()
-
-    
